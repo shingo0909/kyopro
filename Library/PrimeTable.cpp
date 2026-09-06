@@ -1,4 +1,4 @@
-// https://github.com/shingo0909/kyopro/blob/39029fab39c1735c38e5e9e4494d9934f81d6918/Library/PrimeTable.cpp
+// https://github.com/shingo0909/kyopro/blob/1c294115aa3307b940dc797fb16d10a291d47334/Library/PrimeTable.cpp
 #include <bits/stdc++.h>
 using namespace std;
 
