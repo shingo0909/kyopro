@@ -1,3 +1,4 @@
+// https://github.com/shingo0909/kyopro/blob/fe218bd14ae9e493968a2deaa998df825bad7229/Library/ConvexHullTrick.cpp
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
