@@ -1,3 +1,4 @@
+// https://github.com/shingo0909/kyopro/blob/8144c73a9af5f00de991450b22a6e71867a50ede/Library/SlopeTrick.cpp
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
