@@ -1,4 +1,4 @@
-// https://github.com/shingo0909/kyopro/blob/39029fab39c1735c38e5e9e4494d9934f81d6918/Library/HLD.cpp
+// https://github.com/shingo0909/kyopro/blob/afaf89410b20af94354c18270a9194e97f7a1de4/Library/HLD.cpp
 #include <bits/stdc++.h>
 
 using namespace std;
